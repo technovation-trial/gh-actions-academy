@@ -68,7 +68,7 @@ snyk container monitor node:6-stretch
 
 Snyk provides the ability to monitor application runtime behavior and detect an invocation of a function is known to be vulnerable and used within open source dependencies that the application makes use of.
 
-To run the Node.js app with runtime monitoring, visit [Install the Snyk Runtime Monitoring agent for Node.js].(https://support.snyk.io/hc/en-us/articles/360003699058-Snyk-runtime-monitoring-install-the-Snyk-agent-for-Node-js)
+To run the Node.js app with runtime monitoring, visit [Install the Snyk Runtime Monitoring agent for Node.js](https://support.snyk.io/hc/en-us/articles/360003699058-Snyk-runtime-monitoring-install-the-Snyk-agent-for-Node-js).
 
 ## Fixing the issues
 To find these flaws in this application (and in your own apps), run:
