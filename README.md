@@ -17,14 +17,15 @@ This vulnerable app includes the following capabilities to experiment with:
 * [Runtime alerts](#runtime-alerts) for detecting an invocation of vulnerable functions in open source dependencies
 
 ## Running
+
+Clone the repo to your local environment then run the following to start the app. 
 ```bash
 mongod &
 
-git clone https://github.com/Snyk/snyk-demo-todo
 npm install
 npm start
 ```
-This will run Goof locally, using a local mongo on the default port and listening on port 3001 (http://localhost:3001)
+This will run Goof locally, using a local mongo on the default port and listening on port 3001 (http://localhost:3001).
 
 ## Running with docker-compose
 ```bash
